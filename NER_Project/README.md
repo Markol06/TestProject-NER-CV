@@ -20,6 +20,7 @@ This project performs Named Entity Recognition (NER) for detecting mountain name
   - **`Python scripts.txt`** — contains links to Google Drive Python scripts, including:
     - **Python script (.py) for model training.**
     - **Python script (.py) for model inference.**
+  - **NER_Potential Improvements.pdf** - file with my thoughts on potential improvements.
 
 ## **Setup Instructions**
 
